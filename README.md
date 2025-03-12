@@ -1,10 +1,10 @@
-# 🚗 Car Purchase Advisor System
+# Car Purchase Advisor System
 
 Interactive Python console application to assist users in locating car retailers, advising on suitable car purchases, and ordering cars.
 
 ---
 
-## 📌 Overview
+# Overview
 
 This project provides a simple and intuitive interface to:
 
@@ -16,7 +16,7 @@ This project provides a simple and intuitive interface to:
 
 ---
 
-## 🛠️ Features
+## Features
 
 - **Interactive Menu:**  
   - Find Nearest Car Retailer  
@@ -33,7 +33,7 @@ This project provides a simple and intuitive interface to:
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 - **Programming Language:** Python 3.x  
 - **Environment:** Console-based (command-line interface)  
@@ -41,7 +41,7 @@ This project provides a simple and intuitive interface to:
 
 ---
 
-## 💻 How to Run the Application
+##  How to Run the Application
 
 ### Prerequisites:
 
